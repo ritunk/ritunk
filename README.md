@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer IIIT Bhagalpur</h3>
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritunk&label=Profile%20views&color=0e75b6&style=flat" alt="ritunk" /> </p>
