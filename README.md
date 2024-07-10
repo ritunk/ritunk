@@ -1,4 +1,4 @@
- align="center">Hi 👋, I'm Ritik Raj</h1>
+ <h1>Hi 👋, I'm Ritik Raj</h1>
 <h3 align="center">A passionate frontend developer IIIT Bhagalpur</h3>
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
