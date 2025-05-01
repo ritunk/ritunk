@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ritik Raj</h1>
-<h3 align="center">A Full‑Stack Developer | Final Year CSE @ IIIT Bhagalpur</h3>
+<h3 align="center">Machine-Learning & Data-Science Enthusiast | Final Year CSE @ IIIT Bhagalpur</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ritunk&label=Profile%20views&color=0e75b6&style=flat" alt="ritunk" />
 </p>
 
-- 🔭 I’m currently building **scalable backend services in Java & Go** and **modern front‑ends with React.js**  
-- 🌱 I’m exploring **Spring Boot**, **Gin framework**, and **TypeScript with React**  
-- 💬 Ask me about **Java**, **Golang**, **React.js**, and **RESTful API design**  
+- 🔭 I’m currently building **end-to-end ML pipelines** and **LLM-powered apps** in Python  
+- 🌱 I’m exploring **Deep Learning with PyTorch**, **MLOps (FastAPI & Docker)**, and **Vector DBs for RAG**  
+- 🧑‍💻 Daily stack → **Pandas · NumPy · scikit-learn · TensorFlow/PyTorch · Matplotlib**  
+- 💬 Ask me about **data wrangling**, **model deployment**, **NLP**, and **prompt engineering**  
 - 📫 Reach me at **ritikraj8654@gmail.com**
 
 ---
@@ -26,12 +27,17 @@
 
 <h3 align="left">Languages &amp; Tools:</h3>
 <p align="left">
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/></a>
-  <a href="https://gin-gonic.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="gin framework" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
 
 ---
